@@ -1,3 +1,3 @@
 package module_testing_2
 
-const LibV1 = "LibV1"
+const LibV2 = "LibV2"
